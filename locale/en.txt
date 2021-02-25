@@ -75,8 +75,8 @@ panorama_C5C94E8F_CB5F_0123_41D1_7A5FEAFC6794.label = GS__6391
 ## Action
 
 ### URL
-PopupWebFrameBehaviour_C52F62B3_D801_0D84_41C5_8D632FABE200.url = https://drive.google.com/file/d/13bhJh0MBlFpD-0uDJJjr1vLIPow_ToSc/preview
-PopupWebFrameBehaviour_C6A5F42A_D803_1484_41C3_B1B156DFD5A6.url = https://drive.google.com/file/d/114a9-6hM50RZIMkAtX5wPCnP2P5e3uGR/preview
+LinkBehaviour_F0F3BA85_D801_1D8C_41DF_9B7347CA4DE7.source = https://drive.google.com/drive/folders/18EUTVEeqLCsJqa-Mi85NDzQ5m90hycNG?usp=sharing
+LinkBehaviour_F1F850C9_D807_0D84_41E5_48C09E1CEABC.source = https://drive.google.com/drive/folders/18EUTVEeqLCsJqa-Mi85NDzQ5m90hycNG?usp=sharing
 PopupWebFrameBehaviour_D4CBB98C_CD09_47A3_41B9_35D949656CB4.url = https://www.google.com/maps/embed?pb=!4v1614056236422!6m8!1m7!1sVmYLkjU7qdiFotkx2ejCbw!2m2!1d-6.319009876247085!2d106.8154675463479!3f338.36109215991405!4f4.354282155962366!5f0.4000000000000002
 PopupWebFrameBehaviour_D6D43A55_CD7A_C4AD_419E_C9DEF655F984.url = http://remedial.id/
 PopupWebFrameBehaviour_D6DB0A55_CD7A_C4AD_41E6_02272DBBF3F7.url = https://www.google.com/maps/embed?pb=!4v1614056236422!6m8!1m7!1sVmYLkjU7qdiFotkx2ejCbw!2m2!1d-6.319009876247085!2d106.8154675463479!3f338.36109215991405!4f4.354282155962366!5f0.4000000000000002
