@@ -78,10 +78,14 @@ panorama_C5C94E8F_CB5F_0123_41D1_7A5FEAFC6794.label = GS__6391
 LinkBehaviour_CB2E5A4D_DDDD_4F84_41CE_EDA8D709E99E.source = https://drive.google.com/file/d/1koJRrxwNYHLb459sjyYVXUKshI4gpKl7/view?usp=sharing
 LinkBehaviour_CB2E6A4D_DDDD_4F84_41D3_A6E454A95A28.source = https://drive.google.com/file/d/1r071lbI2P5pQ6fjaFkgzlcWaS6mRPcmR/view?usp=sharing
 LinkBehaviour_F1F850C9_D807_0D84_41E5_48C09E1CEABC.source = https://drive.google.com/drive/folders/18EUTVEeqLCsJqa-Mi85NDzQ5m90hycNG?usp=sharing
+PopupWebFrameBehaviour_CAB5E21B_DD22_BF8C_41D5_14EFB8CD13B9.url = https://www.instagram.com/p/CHFY-RyAjIa/embed
+PopupWebFrameBehaviour_CB03953D_DD2F_C584_41AC_D84D6F45F07F.url = https://www.instagram.com/p/CLv8nk9AJ9x/embed
 PopupWebFrameBehaviour_CB2DE7E4_DDE3_4485_41C2_6D54D32AB8AF.url = https://www.instagram.com/p/B-MD4f9g-_B/embed
+PopupWebFrameBehaviour_CB39BC88_DD66_C48C_41EA_5925E18D882A.url = https://www.instagram.com/p/CEOR0XOAJdW/embed
 PopupWebFrameBehaviour_CB4F35DD_DDED_4484_41EB_3660547BE7AB.url = https://drive.google.com/file/d/114a9-6hM50RZIMkAtX5wPCnP2P5e3uGR/preview
+PopupWebFrameBehaviour_CB580942_DD62_CDFC_41E7_39EBFD0F1C3C.url = https://www.instagram.com/p/BjuNrOsDkfO/embed
 PopupWebFrameBehaviour_CBB185DF_DDDD_4483_41E5_CA481F0C62FE.url = https://drive.google.com/file/d/1CBD1YSf4YX0p_aKU4tNu980ZcQZJ646j/preview
 PopupWebFrameBehaviour_D4CBB98C_CD09_47A3_41B9_35D949656CB4.url = https://www.google.com/maps/embed?pb=!4v1614056236422!6m8!1m7!1sVmYLkjU7qdiFotkx2ejCbw!2m2!1d-6.319009876247085!2d106.8154675463479!3f338.36109215991405!4f4.354282155962366!5f0.4000000000000002
-PopupWebFrameBehaviour_D6D43A55_CD7A_C4AD_419E_C9DEF655F984.url = http://remedial.id/
+PopupWebFrameBehaviour_D6D43A55_CD7A_C4AD_419E_C9DEF655F984.url = https://www.instagram.com/p/CD6PvgWgm1H/embed
 PopupWebFrameBehaviour_D6DB0A55_CD7A_C4AD_41E6_02272DBBF3F7.url = https://www.google.com/maps/embed?pb=!4v1614056236422!6m8!1m7!1sVmYLkjU7qdiFotkx2ejCbw!2m2!1d-6.319009876247085!2d106.8154675463479!3f338.36109215991405!4f4.354282155962366!5f0.4000000000000002
 PopupWebFrameBehaviour_D8EDC676_CD0A_CD6C_41DF_7F78D1FE7320.url = http://remedial.id/
