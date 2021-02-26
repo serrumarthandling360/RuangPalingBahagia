@@ -57,20 +57,21 @@ album_C5DF1C49_D83F_7484_41BA_D16E2FE329AB_7.label = 8
 album_C5DF1C49_D83F_7484_41BA_D16E2FE329AB_8.label = 9
 album_C5DF1C49_D83F_7484_41BA_D16E2FE329AB_9.label = 10
 panorama_C225C6F0_CB51_0EFC_41D9_604CABC9DB90.label = RURU GALLERY
-panorama_C2799088_CD94_C428_41A8_8572701E0C81.label = GS__6399
-panorama_C288835C_CD93_C428_41D2_52C08C6804AA.label = GS__6401
 panorama_C2D3462E_CB53_0165_41E8_749DB1DE25F2.label = GS__6393
 panorama_C2D38E0E_CB53_0124_41D7_81B088841E24.label = GS__6394
-panorama_C2D399A9_CB53_036C_41D8_41042298E657.label = GS__6410
-panorama_C2D3B4A1_CB53_011F_41A3_2CC5D6261CB6.label = GS__6397
-panorama_C2D3BC04_CB53_0124_41E0_90696790EF11.label = GS__6398
-panorama_C2D3BCE2_CB53_011C_41CF_560DD4BFD785.label = SERRUM GALLERY
 panorama_C2D3D188_CB53_032C_41E8_D74F5BCDB1FD.label = GS__6411
-panorama_C2D3E1ED_CB53_02E4_41BC_274D11D9602E.label = GS__6404
 panorama_C2D52EAD_CB53_0164_41E0_C4328D42A520.label = GS__6392
-panorama_C363BC91_CD93_7C38_4196_F387D1057C5E.label = GS__6402
 panorama_C37A751A_CD93_4C28_41C3_E4BAC9D4C28D.label = GS__6400
 panorama_C5C94E8F_CB5F_0123_41D1_7A5FEAFC6794.label = GS__6391
+panorama_D02F5DA7_DE18_6A3C_41E1_1C9D28013A68.label = GS__6397
+panorama_D04629E6_DE1B_EA3F_41D4_8D01A22CEF19.label = GS__6398
+panorama_D07D780D_DE18_6A0C_41C9_F8808650025F.label = SERRUM GALLERY
+panorama_D094D35B_DE18_FE14_41B5_77C70D269814.label = GS__6401
+panorama_D0BC270A_DE18_67F4_41E6_EFC8F4F8AEA2.label = GS__6402
+panorama_D0C6C74A_DE1F_A674_41DD_0045B4F8709F.label = GS__6404
+panorama_D1185F6D_DE19_A60C_41E0_EFF69BF81F54.label = GS__6399
+panorama_D157875E_DE18_E60C_41E1_F94D75BAFC46.label = GS__6410
+video_CE967027_DE08_7A3C_41AA_8B208A9E21B8.label = phene fix
 
 ## Action
 
@@ -79,13 +80,18 @@ LinkBehaviour_CB2E5A4D_DDDD_4F84_41CE_EDA8D709E99E.source = https://drive.google
 LinkBehaviour_CB2E6A4D_DDDD_4F84_41D3_A6E454A95A28.source = https://drive.google.com/file/d/1r071lbI2P5pQ6fjaFkgzlcWaS6mRPcmR/view?usp=sharing
 LinkBehaviour_F1F850C9_D807_0D84_41E5_48C09E1CEABC.source = https://drive.google.com/drive/folders/18EUTVEeqLCsJqa-Mi85NDzQ5m90hycNG?usp=sharing
 PopupWebFrameBehaviour_CAB5E21B_DD22_BF8C_41D5_14EFB8CD13B9.url = https://www.instagram.com/p/CHFY-RyAjIa/embed
-PopupWebFrameBehaviour_CB03953D_DD2F_C584_41AC_D84D6F45F07F.url = https://www.instagram.com/p/CLv8nk9AJ9x/embed
+PopupWebFrameBehaviour_CB03953D_DD2F_C584_41AC_D84D6F45F07F.url = https://gudskul.art/studi-kolektif-dan-ekosistem/
 PopupWebFrameBehaviour_CB2DE7E4_DDE3_4485_41C2_6D54D32AB8AF.url = https://www.instagram.com/p/B-MD4f9g-_B/embed
 PopupWebFrameBehaviour_CB39BC88_DD66_C48C_41EA_5925E18D882A.url = https://www.instagram.com/p/CEOR0XOAJdW/embed
 PopupWebFrameBehaviour_CB4F35DD_DDED_4484_41EB_3660547BE7AB.url = https://drive.google.com/file/d/114a9-6hM50RZIMkAtX5wPCnP2P5e3uGR/preview
-PopupWebFrameBehaviour_CB580942_DD62_CDFC_41E7_39EBFD0F1C3C.url = https://www.instagram.com/p/BjuNrOsDkfO/embed
+PopupWebFrameBehaviour_CB580942_DD62_CDFC_41E7_39EBFD0F1C3C.url = http://serrum.id/programs/remedial/
 PopupWebFrameBehaviour_CBB185DF_DDDD_4483_41E5_CA481F0C62FE.url = https://drive.google.com/file/d/1CBD1YSf4YX0p_aKU4tNu980ZcQZJ646j/preview
 PopupWebFrameBehaviour_D4CBB98C_CD09_47A3_41B9_35D949656CB4.url = https://www.google.com/maps/embed?pb=!4v1614056236422!6m8!1m7!1sVmYLkjU7qdiFotkx2ejCbw!2m2!1d-6.319009876247085!2d106.8154675463479!3f338.36109215991405!4f4.354282155962366!5f0.4000000000000002
 PopupWebFrameBehaviour_D6D43A55_CD7A_C4AD_419E_C9DEF655F984.url = https://www.instagram.com/p/CD6PvgWgm1H/embed
 PopupWebFrameBehaviour_D6DB0A55_CD7A_C4AD_41E6_02272DBBF3F7.url = https://www.google.com/maps/embed?pb=!4v1614056236422!6m8!1m7!1sVmYLkjU7qdiFotkx2ejCbw!2m2!1d-6.319009876247085!2d106.8154675463479!3f338.36109215991405!4f4.354282155962366!5f0.4000000000000002
 PopupWebFrameBehaviour_D8EDC676_CD0A_CD6C_41DF_7F78D1FE7320.url = http://remedial.id/
+PopupWebFrameBehaviour_FC0DD7E7_DE08_663D_41EA_0E3D61220C6E.url = https://www.instagram.com/p/CEOR0XOAJdW/embed
+PopupWebFrameBehaviour_FC2E193B_DE17_AA14_41E9_7BAA5D01B2F8.url = https://www.instagram.com/p/B-MD4f9g-_B/embed
+PopupWebFrameBehaviour_FDC8849B_DE18_5A14_41E4_0F657740AFF7.url = http://serrum.id/programs/remedial/
+PopupWebFrameBehaviour_FFB68AE9_DE09_AE34_41E9_B59C5D8C9CBC.url = https://www.instagram.com/p/CHFY-RyAjIa/embed
+PopupWebFrameBehaviour_FFE59451_DE18_5A14_41EA_60192927EA68.url = https://gudskul.art/studi-kolektif-dan-ekosistem/
