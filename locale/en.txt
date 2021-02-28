@@ -88,10 +88,6 @@ video_E6FEF546_DE08_7A7C_41B2_20D986363605.label = GS__6404 crop video (VR2 Edit
 ## Action
 
 ### URL
-LinkBehaviour_C6F8C36C_E0E5_239E_41DE_ABAF46CF11EF.source = https://drive.google.com/file/d/1koJRrxwNYHLb459sjyYVXUKshI4gpKl7/view?usp=sharing
-LinkBehaviour_C9E14811_E01B_6D86_41E4_00B598FBDE75.source = https://drive.google.com/file/d/1r071lbI2P5pQ6fjaFkgzlcWaS6mRPcmR/view?usp=sharing
-LinkBehaviour_CB2E5A4D_DDDD_4F84_41CE_EDA8D709E99E.source = https://drive.google.com/file/d/1koJRrxwNYHLb459sjyYVXUKshI4gpKl7/view?usp=sharing
-LinkBehaviour_CB2E6A4D_DDDD_4F84_41D3_A6E454A95A28.source = https://drive.google.com/file/d/1r071lbI2P5pQ6fjaFkgzlcWaS6mRPcmR/view?usp=sharing
 PopupWebFrameBehaviour_C6B85AAA_E0E5_E29A_41E7_3DCE20E5ECE5.url = https://drive.google.com/file/d/1Yy9S-8F6WIFqhHHBJszPCL47DTcj2joH/preview
 PopupWebFrameBehaviour_C6FFFADB_DFF5_BD2D_41DF_9FFA44C26F7D.url = https://drive.google.com/file/d/1Yy9S-8F6WIFqhHHBJszPCL47DTcj2joH/preview
 PopupWebFrameBehaviour_C7903ED1_DFF5_D53A_41AC_0C45F018E869.url = https://drive.google.com/file/d/1cXMywdja1tgAFFuCczB6YqKcdX-yGU84/preview
